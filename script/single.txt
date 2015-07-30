@@ -1,0 +1,10 @@
+var a=7;
+var b=9;
+if(a<b)
+{
+console.log("yes, it is lesser")
+}
+else
+{
+console.log("no, it is greater");
+}
